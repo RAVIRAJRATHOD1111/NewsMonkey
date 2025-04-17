@@ -1,3 +1,10 @@
+To get Api key go to the " https://newsapi.org/ " after 
+
+create " .env.local " file and write this code
+
+REACT_APP_NEWS_API = 'ENTER_YOUR_NEWS_API_KEY'
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
